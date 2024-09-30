@@ -14,8 +14,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/rbonsol/TFT-Win-Loss-Predictor">
-    <img src=![image](https://github.com/user-attachments/assets/80929eb2-166d-41a6-8a94-013d9e995303)
- alt="logo">
+    <img src="tft-1678601425752.jpg"
+ alt="logo" height="120" width="120">
   </a>
 
 <h3 align="center">TFT Win Loss Predictor</h3>
@@ -220,7 +220,7 @@ Project Link: [https://github.com/rbonsol/TFT-Win-Loss-Predictor](https://github
 [license-shield]: https://img.shields.io/github/license/rbonsol/TFT-Win-Loss-Predictor.svg?style=for-the-badge
 [license-url]: https://github.com/rbonsol/TFT-Win-Loss-Predictor/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/ram-gabriel-bonsol-a19193140/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
